@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ivSplash" type="id"></item>
+    <item name="tvSubSplash" type="id"></item>
+    <item name="btnget" type="id"></item>
+    <item name="tvSplash" type="id"></item>
+</resources>
